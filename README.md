@@ -22,7 +22,7 @@ Welcome to the **Box Shadow Generator**! This interactive web tool allows you to
 
 ## 🌐 Live Demo
 
-Try it out live: [https://iam269.github.io/Box-Shadow-Generator/](https://iam269.github.io/Box-Shadow-Generator/)
+Try it out live: [https://itsiamdev.github.io/Box-Shadow-Generator/](https://itsiamdev.github.io/Box-Shadow-Generator/)
 
 ## 🛠️ Technologies Used
 
